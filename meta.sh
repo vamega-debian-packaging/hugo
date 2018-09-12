@@ -1,0 +1,9 @@
+PACKAGE_NAME='hugo'
+DESCRIPTION='A Fast and Flexible Static Site Generator built with love in GoLang'
+MAINTAINER='Varun Madiath <vamega@gmail.com>'
+WEBSITE_URL='https://gohugo.io/'
+VCS_URL='https://github.com/gohugoio/hug.git'
+LICENSE='Apache-2.0'
+VERSION='0.48'
+REPO="vamega/personal-debian-server/${PACKAGE_NAME}"
+DOWNLOAD_URL="https://github.com/gohugoio/hugo/releases/download/v{VERSION}/hugo_${VERSION}_Linux-64bit.deb"
