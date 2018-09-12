@@ -6,4 +6,4 @@ VCS_URL='https://github.com/gohugoio/hug.git'
 LICENSE='Apache-2.0'
 VERSION='0.48'
 REPO="vamega/personal-debian-server/${PACKAGE_NAME}"
-DOWNLOAD_URL="https://github.com/gohugoio/hugo/releases/download/v{VERSION}/hugo_${VERSION}_Linux-64bit.deb"
+DOWNLOAD_URL="https://github.com/gohugoio/hugo/releases/download/v${VERSION}/hugo_${VERSION}_Linux-64bit.deb"
